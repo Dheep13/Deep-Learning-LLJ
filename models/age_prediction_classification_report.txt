@@ -1,0 +1,8 @@
+Age Prediction Model Evaluation
+==============================
+
+Test loss: 1.6255
+Test accuracy: 0.2000
+
+Classification Report:
+Error generating report: Number of classes, 5, does not match size of target_names, 9. Try specifying the labels parameter
